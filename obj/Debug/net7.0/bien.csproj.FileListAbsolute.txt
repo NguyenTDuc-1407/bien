@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\bien\bin\Debug\net7.0\bien.exe
+C:\Users\ASUS\Desktop\bien\bin\Debug\net7.0\bien.deps.json
+C:\Users\ASUS\Desktop\bien\bin\Debug\net7.0\bien.runtimeconfig.json
+C:\Users\ASUS\Desktop\bien\bin\Debug\net7.0\bien.dll
+C:\Users\ASUS\Desktop\bien\bin\Debug\net7.0\bien.pdb
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.dll
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\refint\bien.dll
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.pdb
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\bien.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\bien\obj\Debug\net7.0\ref\bien.dll
